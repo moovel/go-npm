@@ -14,7 +14,7 @@
   "dependencies": {
     "mkdirp": "^0.5.1",
     "request": "^2.81.0",
-    "tar": "^2.2.1"
+    "tar": "^4.4.8"
   },
   "repository": {
     "type": "git",
