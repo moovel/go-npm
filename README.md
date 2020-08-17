@@ -2,7 +2,7 @@
 
 Welcome to Go NPM !
 
-This is not an official Reach-Now product.
+This fork is not an official Reach-Now product.
 
 ### Distribute cross-platform Go binaries via NPM
 
