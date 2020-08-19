@@ -1,4 +1,9 @@
 ## Go NPM
+
+Welcome to Go NPM !
+
+This fork is not an official Reach-Now product.
+
 ### Distribute cross-platform Go binaries via NPM
 
 Applications written in Golang are portable - you can easily cross-compile binaries that work on Windows, Mac, and Linux. But how do you distribute the binaries to customers? When you publish new releases, how do they update the binary? 
